@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jgheuler88
+- 👀 I’m interested in learning R, RShiny, and Python
+- 🌱 I’m currently learning data visualization and interactive dashboards with RShiny
+- 💞️ I’m looking to collaborate on RShiny Dashboards
+- 📫 How to reach me jim.heuler@gmail.com
